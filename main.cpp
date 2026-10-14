@@ -27,7 +27,7 @@ int WINAPI WinMain(_In_ HINSTANCE, _In_opt_ HINSTANCE, _In_ LPSTR, _In_ int) {
 		/// ↓更新処理ここから
 		///
 
-		printf("THE END");
+		printf("Hello Github World!");
 
 		///
 		/// ↑更新処理ここまで
