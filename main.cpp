@@ -31,6 +31,8 @@ int WINAPI WinMain(_In_ HINSTANCE, _In_opt_ HINSTANCE, _In_ LPSTR, _In_ int) {
 
 		printf("Hello PM1 World!");
 
+		printf("THE END");
+
 		///
 		/// ↑更新処理ここまで
 		///
